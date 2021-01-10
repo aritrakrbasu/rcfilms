@@ -450,7 +450,6 @@ a
     {
         height: 2000px;
     }
-
     .nav-item
     {
         font-size: 60px;
@@ -461,3 +460,13 @@ a
         margin: 40px;
     }
 }
+@media all and (min-width: 1024px) and (max-width: 1280px) {
+    .nav-item
+    {
+        font-size: 11px;
+    }
+    .sidebar
+    {
+        padding: 0px 30px !important;
+    }
+ }
