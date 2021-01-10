@@ -470,3 +470,127 @@ a
         padding: 0px 30px !important;
     }
  }
+ @media  all and (max-width: 1920px) {
+    .gallery-item h3
+    {
+        font-size: 30px;
+    }
+}
+@media (min-width: 1920px) and (max-width: 2560px)  {
+    .nav-item
+    {
+        font-size: 30px;
+        margin: 0px 25px;
+    }
+}
+@media (min-width: 2120px) and (max-width: 3840px) {
+    .nav-item
+    {
+        font-size: 45px;
+        margin: 0px 35px;
+    }
+    .contact-info
+    {
+        width:70%
+    }
+    .contact-info label
+    {
+        font-size:50px
+    }
+    .contact-info small
+    {
+        font-size:30px
+    }
+    .contact-info .form-group
+    {
+        margin: 50px 0px;
+    }
+    .contact-info input
+    {
+        font-size:20px;
+        padding:20px !important;
+        height:100px  !important
+    }
+    .contact-info input::placeholder , .contact-info textarea::placeholder
+    {
+        font-size:30px;
+    }
+    .contact-info textarea
+    {
+        font-size:20px;
+        padding:20px !important;
+        height:300px  !important
+    }
+    .social-media-list li
+    {
+        margin-top: 0px;
+    }
+    .navbar
+    {
+        max-height:200px !important;
+        height:200px !important
+    }
+    .sidebar-text
+    {
+        height: calc(100vh - 280px);
+    }
+}
+@media all and (min-width: 3840px) {
+    .nav-item
+    {
+        font-size: 45px;
+        margin: 0px 35px;
+    }
+    .contact-info
+    {
+        width:70%
+    }
+    .contact-info label
+    {
+        font-size:50px
+    }
+    .contact-info small
+    {
+        font-size:30px
+    }
+    .contact-info .form-group
+    {
+        margin: 50px 0px;
+    }
+    .contact-info input
+    {
+        font-size:20px;
+        padding:20px !important;
+        height:100px  !important
+    }
+    .contact-info input::placeholder , .contact-info textarea::placeholder
+    {
+        font-size:30px;
+    }
+    .contact-info textarea
+    {
+        font-size:20px;
+        padding:20px !important;
+        height:300px  !important
+    }
+    .social-media-list li
+    {
+        margin-top: 0px;
+    }
+    .navbar
+    {
+        max-height:200px !important;
+        height:200px !important
+    }
+    .sidebar-text
+    {
+        height: calc(100vh - 280px);
+    }
+}
+@media all and (min-width: 5000px) {
+    .nav-item
+    {
+        font-size: 60px;
+        margin: 0px 40px;
+    }
+}
