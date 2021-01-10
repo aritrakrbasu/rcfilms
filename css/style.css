@@ -450,5 +450,14 @@ a
     {
         height: 2000px;
     }
-  
+
+    .nav-item
+    {
+        font-size: 60px;
+        margin: 0px 40px;
+    }
+    .social-media-list li
+    {
+        margin: 40px;
+    }
 }
